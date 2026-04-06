@@ -1,52 +1,77 @@
-## Hi, I'm Jahanzaib Fareed 👋
+<h1 align="center">Hi 👋, I'm Jahanzaib Fareed</h1>
+<h3 align="center">AI Researcher | MS/PhD in Control & Robot Engineering 🇰🇷</h3>
 
-🎓 MS/PhD Researcher in Control & Robot Engineering  
-📍 Gyeongsang National University, South Korea 🇰🇷  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Vision+Researcher;Deep+Learning+Engineer;Robotics+AI+Developer;Real-Time+AI+Systems&center=true&width=500&height=50">
+</p>
+
 ---
 
 ## 🚀 About Me
-I am a Computer Engineer and AI Researcher specializing in **Computer Vision, Deep Learning, and Robotics**.  
-Currently working on **real-time intelligent systems using sensor data and AI models**.
 
-🔬 My research focuses on:
-- Vision-Based AI for Autonomous Systems
-- Real-Time Deep Learning Systems
-- Edge AI Deployment (Jetson, Embedded Systems)
+- 🎓 MS/PhD @ Gyeongsang National University, South Korea  
+- 🤖 Research in **Computer Vision, Robotics, and Sensor-based AI**  
+- ⚡ Working on **Real-Time CoP Estimation Systems**  
+- 🌾 Built **AI Wheat Disease Detection System (AgroScan)**  
+- 🏆 Runner-up ICT PASHA Award 2025  
+
 ---
 
-## 🧪 Current Research
-📌 **Causal Real-Time CoP Estimation**
----
+## 🧠 Current Research
 
-## 🏆 Key Projects
-### 🌾 AI-Driven Wheat Rust Detection (AgroScan)
-- Deep learning-based disease classification
-- Infected area % estimation
-- Real-time visualization system
-- 🥈 Runner-up – ICT PASHA Award 2025
+🔬 **Causal Real-Time CoP Estimation**
+- Pressure sensor data (64×64 heatmaps)
+- MobileNet Encoder + GRU
+- Real-time inference (50–60 Hz)
+- Edge AI deployment (Jetson Nano / Orin)
+
 ---
 
 ## 🛠️ Tech Stack
-**Languages:**
-- Python, C++, JavaScript
-**AI/ML:**
-- PyTorch, TensorFlow, OpenCV, ONNX
-**Web:**
-- React (Vite), FastAPI, Flask
-**Tools:**
-- Git, Docker, Jupyter, Linux
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,cpp,js,react,fastapi,flask,git,linux,docker" />
+</p>
+
 ---
 
-## 📊 Research Interests
-- Computer Vision
-- Robotics & Autonomous Systems
-- Sensor Fusion
-- Real-Time AI Systems
-- Healthcare AI / Rehabilitation Systems
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jahanzaib-jf&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jahanzaib-jf&theme=radical" height="150"/>
+</p>
+
 ---
 
-## 📫 Contact
-📧 Email: jahanzaibfareed@gnu.ac.kr  
- ---
+## 🚀 Top Projects
 
-⭐ Always open to research collaboration and innovative AI projects!
+### 🌾 Wheat Disease Detection (AgroScan)
+- Deep learning-based classification
+- Infection area estimation
+- Real-time visualization
+
+### 🤖 CoP Estimation System
+- Sensor-based AI model
+- Real-time prediction pipeline
+- Edge deployment ready
+
+---
+
+## 📈 Contribution Graph
+
+![snake gif](https://github.com/Jahanzaib-jf/Jahanzaib-jf/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect with Me
+
+<p>
+<a href="https://linkedin.com/in/your-profile" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
+
+---
+
+⭐ *Always open for research collaboration and AI innovation*
