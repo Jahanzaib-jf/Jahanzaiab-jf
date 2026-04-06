@@ -1,9 +1,9 @@
-# Hi, I'm Jahanzaib Fareed 👋
+## Hi, I'm Jahanzaib Fareed 👋
 
 🎓 MS/PhD Researcher in Control & Robot Engineering  
 📍 Gyeongsang National University, South Korea 🇰🇷  
-
 ---
+
 ## 🚀 About Me
 I am a Computer Engineer and AI Researcher specializing in **Computer Vision, Deep Learning, and Robotics**.  
 Currently working on **real-time intelligent systems using sensor data and AI models**.
